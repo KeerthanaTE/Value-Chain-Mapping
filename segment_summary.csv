@@ -1,4 +1,0 @@
-segment,nodes,firm_count,pct_of_total,mean_firm_age,geographic_regions,established_pct,newspace_pct,civil_commercial_pct,dual_use_pct,dominant_supply_tier,top_activity_types,top_nodes
-Upstream,"N1, N2, N3",126,11.8,10.1,12,6.3,42.9,77.8,22.2,Supplier,Components and Materials (70); Data Processing and Analytics (33); Satellite Manufacturing (12),N1 (51); N3 (48); N2 (27)
-Midstream,"N4, N5, N7",160,15.0,9.3,12,8.1,51.2,90.6,9.4,Service Provider,Data Processing and Analytics (85); Launch Services (44); Ground Infrastructure (17),N7 (72); N5 (66); N4 (22)
-Downstream,"N6, N8, N9",779,73.1,10.0,13,5.1,58.5,98.5,1.5,Service Provider,Space Consultancy and R&D (356); Satellite Communications (284); Space Applications and Services (74),N8 (462); N9 (312); N6 (5)
