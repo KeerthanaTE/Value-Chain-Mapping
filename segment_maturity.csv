@@ -1,0 +1,13 @@
+segment,maturity,firm_count,pct_of_segment
+Upstream,Unknown,59,46.8
+Upstream,NewSpace (post-2015),54,42.9
+Upstream,Established (pre-2000),8,6.3
+Upstream,Mature (2000-2015),5,4.0
+Midstream,NewSpace (post-2015),82,51.2
+Midstream,Unknown,43,26.9
+Midstream,Mature (2000-2015),22,13.8
+Midstream,Established (pre-2000),13,8.1
+Downstream,NewSpace (post-2015),456,58.5
+Downstream,Mature (2000-2015),259,33.2
+Downstream,Established (pre-2000),40,5.1
+Downstream,Unknown,24,3.1
