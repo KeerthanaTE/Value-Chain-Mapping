@@ -1,7 +1,0 @@
-segment,governance_type,firm_count,pct_of_segment
-Upstream,Civil / Commercial,98,77.8
-Upstream,Dual-Use (Civil + Defence),28,22.2
-Midstream,Civil / Commercial,145,90.6
-Midstream,Dual-Use (Civil + Defence),15,9.4
-Downstream,Civil / Commercial,767,98.5
-Downstream,Dual-Use (Civil + Defence),12,1.5
